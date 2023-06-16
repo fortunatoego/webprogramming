@@ -1,0 +1,13 @@
+#demo{ font-size: 20x; }
+
+a:visited{ color: purple; }
+
+body{ position: relative; }
+
+a:hover
+{
+    color: yellow;
+    font-size: 20px;
+}
+
+div{ width: 1000px; }
